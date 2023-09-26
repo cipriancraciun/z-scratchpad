@@ -846,7 +846,7 @@ func MainGrep (_flags *GrepFlags, _globals *Globals, _index *Index, _editor *Edi
 					return nil
 				case 1 :
 					// NOP
-				case 2 :
+				default :
 					if ! flagBoolOrDefault (_flags.MultipleAllowed, false) {
 						return errorw (0x1e4d02e6, nil)
 					}
