@@ -5,7 +5,9 @@
 	
 	test "${#}" -eq 0
 	
-	for _main in z-scratchpad ; do
+	readarray -t -- _mains < <( exec -- "${ZRUN}" ':: deploy / list / main' )
+	
+	for _main in "${_mains[@]}" ; do
 		
 		
 		
