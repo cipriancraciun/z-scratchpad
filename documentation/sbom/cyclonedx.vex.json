@@ -1,0 +1,970 @@
+{
+  "@context": "https://openvex.dev/ns/v0.2.0",
+  "@id": "https://openvex.dev/docs/public/vex-fd693e2a1d6893036297165ff751de99ad8ed79d597b0e33da44a546dc073ff3",
+  "author": "Unknown Author",
+  "timestamp": "2024-10-04T15:19:00.193024+02:00",
+  "last_updated": "2024-10-04T15:19:02.20498+02:00",
+  "version": 80,
+  "statements": [
+    {
+      "vulnerability": {
+        "name": "CVE-2022-41723"
+      },
+      "timestamp": "2024-10-04T15:19:00.193024+02:00",
+      "products": [
+        {
+          "@id": "@v0.5.0"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2022-41723"
+      },
+      "timestamp": "2024-10-04T15:19:00.223203+02:00",
+      "products": [
+        {
+          "@id": "pkg:golang/golang.org/x/net/http2@v0.5.0"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2022-41723"
+      },
+      "timestamp": "2024-10-04T15:19:00.250792+02:00",
+      "products": [
+        {
+          "@id": "pkg:golang/golang.org/x/net@v0.5.0"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2022-41723"
+      },
+      "timestamp": "2024-10-04T15:19:00.277319+02:00",
+      "products": [
+        {
+          "@id": "pkg:golang/google.golang.org/grpc@v0.5.0"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2022-41723"
+      },
+      "timestamp": "2024-10-04T15:19:00.303939+02:00",
+      "products": [
+        {
+          "@id": "pkg:golang/net/http@v0.5.0"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2022-41723"
+      },
+      "timestamp": "2024-10-04T15:19:00.329003+02:00",
+      "products": [
+        {
+          "@id": "pkg:golang/stdlib@v0.5.0"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2022-41723"
+      },
+      "timestamp": "2024-10-04T15:19:00.355387+02:00",
+      "products": [
+        {
+          "@id": "pkg:maven/com.typesafe.akka/akka-http-core@v0.5.0"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2022-41723"
+      },
+      "timestamp": "2024-10-04T15:19:00.380686+02:00",
+      "products": [
+        {
+          "@id": "pkg:maven/com.typesafe.akka/akka-http-core_2.11@v0.5.0"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2022-41723"
+      },
+      "timestamp": "2024-10-04T15:19:00.407342+02:00",
+      "products": [
+        {
+          "@id": "pkg:maven/com.typesafe.akka/akka-http-core_2.12@v0.5.0"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2022-41723"
+      },
+      "timestamp": "2024-10-04T15:19:00.431738+02:00",
+      "products": [
+        {
+          "@id": "pkg:maven/com.typesafe.akka/akka-http-core_2.13@v0.5.0"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2022-41723"
+      },
+      "timestamp": "2024-10-04T15:19:00.457688+02:00",
+      "products": [
+        {
+          "@id": "pkg:maven/org.apache.tomcat.embed/tomcat-embed-core@v0.5.0"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2022-41723"
+      },
+      "timestamp": "2024-10-04T15:19:00.482657+02:00",
+      "products": [
+        {
+          "@id": "pkg:maven/org.apache.tomcat/tomcat-coyote@v0.5.0"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2022-41723"
+      },
+      "timestamp": "2024-10-04T15:19:00.508525+02:00",
+      "products": [
+        {
+          "@id": "pkg:maven/org.eclipse.jetty.http2/http2-common@v0.5.0"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2022-41723"
+      },
+      "timestamp": "2024-10-04T15:19:00.53369+02:00",
+      "products": [
+        {
+          "@id": "pkg:maven/org.eclipse.jetty.http2/http2-server@v0.5.0"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2022-41723"
+      },
+      "timestamp": "2024-10-04T15:19:00.558365+02:00",
+      "products": [
+        {
+          "@id": "pkg:maven/org.eclipse.jetty.http2/jetty-http2-common@v0.5.0"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2022-41723"
+      },
+      "timestamp": "2024-10-04T15:19:00.583979+02:00",
+      "products": [
+        {
+          "@id": "pkg:maven/org.eclipse.jetty.http2/jetty-http2-server@v0.5.0"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2023-39325"
+      },
+      "timestamp": "2024-10-04T15:19:00.608576+02:00",
+      "products": [
+        {
+          "@id": "@v0.5.0"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2023-39325"
+      },
+      "timestamp": "2024-10-04T15:19:00.632755+02:00",
+      "products": [
+        {
+          "@id": "pkg:golang/golang.org/x/net/http2@v0.5.0"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2023-39325"
+      },
+      "timestamp": "2024-10-04T15:19:00.657818+02:00",
+      "products": [
+        {
+          "@id": "pkg:golang/golang.org/x/net@v0.5.0"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2023-39325"
+      },
+      "timestamp": "2024-10-04T15:19:00.68262+02:00",
+      "products": [
+        {
+          "@id": "pkg:golang/google.golang.org/grpc@v0.5.0"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2023-39325"
+      },
+      "timestamp": "2024-10-04T15:19:00.707218+02:00",
+      "products": [
+        {
+          "@id": "pkg:golang/net/http@v0.5.0"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2023-39325"
+      },
+      "timestamp": "2024-10-04T15:19:00.731406+02:00",
+      "products": [
+        {
+          "@id": "pkg:golang/stdlib@v0.5.0"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2023-39325"
+      },
+      "timestamp": "2024-10-04T15:19:00.756363+02:00",
+      "products": [
+        {
+          "@id": "pkg:maven/com.typesafe.akka/akka-http-core@v0.5.0"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2023-39325"
+      },
+      "timestamp": "2024-10-04T15:19:00.780956+02:00",
+      "products": [
+        {
+          "@id": "pkg:maven/com.typesafe.akka/akka-http-core_2.11@v0.5.0"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2023-39325"
+      },
+      "timestamp": "2024-10-04T15:19:00.805901+02:00",
+      "products": [
+        {
+          "@id": "pkg:maven/com.typesafe.akka/akka-http-core_2.12@v0.5.0"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2023-39325"
+      },
+      "timestamp": "2024-10-04T15:19:00.830991+02:00",
+      "products": [
+        {
+          "@id": "pkg:maven/com.typesafe.akka/akka-http-core_2.13@v0.5.0"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2023-39325"
+      },
+      "timestamp": "2024-10-04T15:19:00.855823+02:00",
+      "products": [
+        {
+          "@id": "pkg:maven/org.apache.tomcat.embed/tomcat-embed-core@v0.5.0"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2023-39325"
+      },
+      "timestamp": "2024-10-04T15:19:00.880154+02:00",
+      "products": [
+        {
+          "@id": "pkg:maven/org.apache.tomcat/tomcat-coyote@v0.5.0"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2023-39325"
+      },
+      "timestamp": "2024-10-04T15:19:00.905657+02:00",
+      "products": [
+        {
+          "@id": "pkg:maven/org.eclipse.jetty.http2/http2-common@v0.5.0"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2023-39325"
+      },
+      "timestamp": "2024-10-04T15:19:00.93343+02:00",
+      "products": [
+        {
+          "@id": "pkg:maven/org.eclipse.jetty.http2/http2-server@v0.5.0"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2023-39325"
+      },
+      "timestamp": "2024-10-04T15:19:00.959517+02:00",
+      "products": [
+        {
+          "@id": "pkg:maven/org.eclipse.jetty.http2/jetty-http2-common@v0.5.0"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2023-39325"
+      },
+      "timestamp": "2024-10-04T15:19:00.98485+02:00",
+      "products": [
+        {
+          "@id": "pkg:maven/org.eclipse.jetty.http2/jetty-http2-server@v0.5.0"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2023-3978"
+      },
+      "timestamp": "2024-10-04T15:19:01.011278+02:00",
+      "products": [
+        {
+          "@id": "@v0.5.0"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2023-3978"
+      },
+      "timestamp": "2024-10-04T15:19:01.036291+02:00",
+      "products": [
+        {
+          "@id": "pkg:golang/golang.org/x/net/http2@v0.5.0"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2023-3978"
+      },
+      "timestamp": "2024-10-04T15:19:01.060978+02:00",
+      "products": [
+        {
+          "@id": "pkg:golang/golang.org/x/net@v0.5.0"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2023-3978"
+      },
+      "timestamp": "2024-10-04T15:19:01.086637+02:00",
+      "products": [
+        {
+          "@id": "pkg:golang/google.golang.org/grpc@v0.5.0"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2023-3978"
+      },
+      "timestamp": "2024-10-04T15:19:01.111995+02:00",
+      "products": [
+        {
+          "@id": "pkg:golang/net/http@v0.5.0"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2023-3978"
+      },
+      "timestamp": "2024-10-04T15:19:01.137367+02:00",
+      "products": [
+        {
+          "@id": "pkg:golang/stdlib@v0.5.0"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2023-3978"
+      },
+      "timestamp": "2024-10-04T15:19:01.164796+02:00",
+      "products": [
+        {
+          "@id": "pkg:maven/com.typesafe.akka/akka-http-core@v0.5.0"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2023-3978"
+      },
+      "timestamp": "2024-10-04T15:19:01.189094+02:00",
+      "products": [
+        {
+          "@id": "pkg:maven/com.typesafe.akka/akka-http-core_2.11@v0.5.0"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2023-3978"
+      },
+      "timestamp": "2024-10-04T15:19:01.213404+02:00",
+      "products": [
+        {
+          "@id": "pkg:maven/com.typesafe.akka/akka-http-core_2.12@v0.5.0"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2023-3978"
+      },
+      "timestamp": "2024-10-04T15:19:01.23905+02:00",
+      "products": [
+        {
+          "@id": "pkg:maven/com.typesafe.akka/akka-http-core_2.13@v0.5.0"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2023-3978"
+      },
+      "timestamp": "2024-10-04T15:19:01.263335+02:00",
+      "products": [
+        {
+          "@id": "pkg:maven/org.apache.tomcat.embed/tomcat-embed-core@v0.5.0"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2023-3978"
+      },
+      "timestamp": "2024-10-04T15:19:01.290237+02:00",
+      "products": [
+        {
+          "@id": "pkg:maven/org.apache.tomcat/tomcat-coyote@v0.5.0"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2023-3978"
+      },
+      "timestamp": "2024-10-04T15:19:01.31521+02:00",
+      "products": [
+        {
+          "@id": "pkg:maven/org.eclipse.jetty.http2/http2-common@v0.5.0"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2023-3978"
+      },
+      "timestamp": "2024-10-04T15:19:01.340381+02:00",
+      "products": [
+        {
+          "@id": "pkg:maven/org.eclipse.jetty.http2/http2-server@v0.5.0"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2023-3978"
+      },
+      "timestamp": "2024-10-04T15:19:01.365307+02:00",
+      "products": [
+        {
+          "@id": "pkg:maven/org.eclipse.jetty.http2/jetty-http2-common@v0.5.0"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2023-3978"
+      },
+      "timestamp": "2024-10-04T15:19:01.390587+02:00",
+      "products": [
+        {
+          "@id": "pkg:maven/org.eclipse.jetty.http2/jetty-http2-server@v0.5.0"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2023-44487"
+      },
+      "timestamp": "2024-10-04T15:19:01.415437+02:00",
+      "products": [
+        {
+          "@id": "@v0.5.0"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2023-44487"
+      },
+      "timestamp": "2024-10-04T15:19:01.441076+02:00",
+      "products": [
+        {
+          "@id": "pkg:golang/golang.org/x/net/http2@v0.5.0"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2023-44487"
+      },
+      "timestamp": "2024-10-04T15:19:01.466831+02:00",
+      "products": [
+        {
+          "@id": "pkg:golang/golang.org/x/net@v0.5.0"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2023-44487"
+      },
+      "timestamp": "2024-10-04T15:19:01.49203+02:00",
+      "products": [
+        {
+          "@id": "pkg:golang/google.golang.org/grpc@v0.5.0"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2023-44487"
+      },
+      "timestamp": "2024-10-04T15:19:01.516474+02:00",
+      "products": [
+        {
+          "@id": "pkg:golang/net/http@v0.5.0"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2023-44487"
+      },
+      "timestamp": "2024-10-04T15:19:01.542167+02:00",
+      "products": [
+        {
+          "@id": "pkg:golang/stdlib@v0.5.0"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2023-44487"
+      },
+      "timestamp": "2024-10-04T15:19:01.566106+02:00",
+      "products": [
+        {
+          "@id": "pkg:maven/com.typesafe.akka/akka-http-core@v0.5.0"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2023-44487"
+      },
+      "timestamp": "2024-10-04T15:19:01.590297+02:00",
+      "products": [
+        {
+          "@id": "pkg:maven/com.typesafe.akka/akka-http-core_2.11@v0.5.0"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2023-44487"
+      },
+      "timestamp": "2024-10-04T15:19:01.614892+02:00",
+      "products": [
+        {
+          "@id": "pkg:maven/com.typesafe.akka/akka-http-core_2.12@v0.5.0"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2023-44487"
+      },
+      "timestamp": "2024-10-04T15:19:01.639908+02:00",
+      "products": [
+        {
+          "@id": "pkg:maven/com.typesafe.akka/akka-http-core_2.13@v0.5.0"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2023-44487"
+      },
+      "timestamp": "2024-10-04T15:19:01.665046+02:00",
+      "products": [
+        {
+          "@id": "pkg:maven/org.apache.tomcat.embed/tomcat-embed-core@v0.5.0"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2023-44487"
+      },
+      "timestamp": "2024-10-04T15:19:01.689496+02:00",
+      "products": [
+        {
+          "@id": "pkg:maven/org.apache.tomcat/tomcat-coyote@v0.5.0"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2023-44487"
+      },
+      "timestamp": "2024-10-04T15:19:01.714065+02:00",
+      "products": [
+        {
+          "@id": "pkg:maven/org.eclipse.jetty.http2/http2-common@v0.5.0"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2023-44487"
+      },
+      "timestamp": "2024-10-04T15:19:01.739657+02:00",
+      "products": [
+        {
+          "@id": "pkg:maven/org.eclipse.jetty.http2/http2-server@v0.5.0"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2023-44487"
+      },
+      "timestamp": "2024-10-04T15:19:01.765551+02:00",
+      "products": [
+        {
+          "@id": "pkg:maven/org.eclipse.jetty.http2/jetty-http2-common@v0.5.0"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2023-44487"
+      },
+      "timestamp": "2024-10-04T15:19:01.790997+02:00",
+      "products": [
+        {
+          "@id": "pkg:maven/org.eclipse.jetty.http2/jetty-http2-server@v0.5.0"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2023-45288"
+      },
+      "timestamp": "2024-10-04T15:19:01.816365+02:00",
+      "products": [
+        {
+          "@id": "@v0.5.0"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2023-45288"
+      },
+      "timestamp": "2024-10-04T15:19:01.843212+02:00",
+      "products": [
+        {
+          "@id": "pkg:golang/golang.org/x/net/http2@v0.5.0"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2023-45288"
+      },
+      "timestamp": "2024-10-04T15:19:01.870159+02:00",
+      "products": [
+        {
+          "@id": "pkg:golang/golang.org/x/net@v0.5.0"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2023-45288"
+      },
+      "timestamp": "2024-10-04T15:19:01.897771+02:00",
+      "products": [
+        {
+          "@id": "pkg:golang/google.golang.org/grpc@v0.5.0"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2023-45288"
+      },
+      "timestamp": "2024-10-04T15:19:01.924964+02:00",
+      "products": [
+        {
+          "@id": "pkg:golang/net/http@v0.5.0"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2023-45288"
+      },
+      "timestamp": "2024-10-04T15:19:01.950753+02:00",
+      "products": [
+        {
+          "@id": "pkg:golang/stdlib@v0.5.0"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2023-45288"
+      },
+      "timestamp": "2024-10-04T15:19:01.975944+02:00",
+      "products": [
+        {
+          "@id": "pkg:maven/com.typesafe.akka/akka-http-core@v0.5.0"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2023-45288"
+      },
+      "timestamp": "2024-10-04T15:19:02.001252+02:00",
+      "products": [
+        {
+          "@id": "pkg:maven/com.typesafe.akka/akka-http-core_2.11@v0.5.0"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2023-45288"
+      },
+      "timestamp": "2024-10-04T15:19:02.026621+02:00",
+      "products": [
+        {
+          "@id": "pkg:maven/com.typesafe.akka/akka-http-core_2.12@v0.5.0"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2023-45288"
+      },
+      "timestamp": "2024-10-04T15:19:02.05126+02:00",
+      "products": [
+        {
+          "@id": "pkg:maven/com.typesafe.akka/akka-http-core_2.13@v0.5.0"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2023-45288"
+      },
+      "timestamp": "2024-10-04T15:19:02.07608+02:00",
+      "products": [
+        {
+          "@id": "pkg:maven/org.apache.tomcat.embed/tomcat-embed-core@v0.5.0"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2023-45288"
+      },
+      "timestamp": "2024-10-04T15:19:02.101055+02:00",
+      "products": [
+        {
+          "@id": "pkg:maven/org.apache.tomcat/tomcat-coyote@v0.5.0"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2023-45288"
+      },
+      "timestamp": "2024-10-04T15:19:02.127013+02:00",
+      "products": [
+        {
+          "@id": "pkg:maven/org.eclipse.jetty.http2/http2-common@v0.5.0"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2023-45288"
+      },
+      "timestamp": "2024-10-04T15:19:02.15245+02:00",
+      "products": [
+        {
+          "@id": "pkg:maven/org.eclipse.jetty.http2/http2-server@v0.5.0"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2023-45288"
+      },
+      "timestamp": "2024-10-04T15:19:02.178131+02:00",
+      "products": [
+        {
+          "@id": "pkg:maven/org.eclipse.jetty.http2/jetty-http2-common@v0.5.0"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-2023-45288"
+      },
+      "timestamp": "2024-10-04T15:19:02.20498+02:00",
+      "products": [
+        {
+          "@id": "pkg:maven/org.eclipse.jetty.http2/jetty-http2-server@v0.5.0"
+        }
+      ],
+      "status": "under_investigation"
+    }
+  ]
+}
